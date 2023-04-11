@@ -28,7 +28,7 @@ export const Projects = () => {
       imgUrl: projects4,
     },
     {
-      title: "Business Startup",
+      title: "NGO",
       description: "Design & Development",
       imgUrl: projects3,
     },
@@ -38,7 +38,7 @@ export const Projects = () => {
       imgUrl: projects5,
     },
     {
-      title: "Business Startup",
+      title: "Charity Org",
       description: "Design & Development",
       imgUrl: projects3,
     },
