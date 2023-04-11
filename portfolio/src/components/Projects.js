@@ -22,14 +22,14 @@ export const Projects = () => {
       imgUrl: projects2,
     },
     {
-      title: "Business Startup",
+      title: "Startup",
       description: "Design & Development",
       imgUrl: projects4,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projects1,
+      imgUrl: projects3,
     },
     {
       title: "Business Startup",
