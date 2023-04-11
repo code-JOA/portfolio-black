@@ -1,6 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import projImg1 from "../assets/img/project-img1.png";
+import projects from "../assets/img/projects.png";
 import projImg2 from "../assets/img/project-img2.png";
 import projImg3 from "../assets/img/project-img3.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -12,8 +12,8 @@ export const Projects = () => {
   const projects = [
     {
       title: "Language School",
-      description: "Design & Development",
-      imgUrl: projImg1,
+      description: "Language & Art",
+      imgUrl: projects,
     },
     {
       title: "Business Startup",
