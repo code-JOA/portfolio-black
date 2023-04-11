@@ -1,6 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import projects from "../assets/img/projects.png";
+import projects1 from "../assets/img/projects1.png";
 import projImg2 from "../assets/img/project-img2.png";
 import projImg3 from "../assets/img/project-img3.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -13,7 +13,7 @@ export const Projects = () => {
     {
       title: "Language School",
       description: "Language & Art",
-      imgUrl: projects,
+      imgUrl: projects1,
     },
     {
       title: "Business Startup",
@@ -28,7 +28,7 @@ export const Projects = () => {
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projects,
+      imgUrl: projects1,
     },
     {
       title: "Business Startup",
