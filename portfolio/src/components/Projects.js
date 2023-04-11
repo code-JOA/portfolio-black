@@ -2,7 +2,7 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projects1 from "../assets/img/projects1.png";
 import projects2 from "../assets/img/projects2.png";
-import projImg3 from "../assets/img/project-img3.png";
+import projects3 from "../assets/img/projects3.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -23,7 +23,7 @@ export const Projects = () => {
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg3,
+      imgUrl: projects3,
     },
     {
       title: "Business Startup",
@@ -38,7 +38,7 @@ export const Projects = () => {
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg3,
+      imgUrl: projects3,
     },
   ];
 
