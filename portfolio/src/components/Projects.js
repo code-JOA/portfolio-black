@@ -33,7 +33,7 @@ export const Projects = () => {
       imgUrl: projects3,
     },
     {
-      title: "Business Startup",
+      title: "WindFarm Project",
       description: "Design & Development",
       imgUrl: projects5,
     },
