@@ -29,17 +29,17 @@ export const Projects = () => {
     },
     {
       title: "NGO",
-      description: "Design & Development",
+      description: "Charity Organisation",
       imgUrl: projects3,
     },
     {
       title: "WindFarm Project",
-      description: "Design & Development",
+      description: "Data Science Project",
       imgUrl: projects5,
     },
     {
       title: "Charity Org",
-      description: "Design & Development",
+      description: "GIWA",
       imgUrl: projects3,
     },
   ];
